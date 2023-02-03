@@ -1,4 +1,12 @@
-package Pattern;
+/*
+                   * * * * * * * * 
+                   *             * 
+                   *             * 
+                   *             * 
+                   * * * * * * * * 
+ */
+ package Pattern;
+ 
 
 import java.util.Scanner;
 
